@@ -1,0 +1,97 @@
+C:\Users\Gandalf\AppData\Local\Temporary Projects\TutorialCOM\bin\Debug\TutorialCOM.exe
+C:\Users\Gandalf\AppData\Local\Temporary Projects\TutorialCOM\bin\Debug\TutorialCOM.pdb
+C:\Users\Gandalf\AppData\Local\Temporary Projects\TutorialCOM\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gandalf\AppData\Local\Temporary Projects\TutorialCOM\obj\x86\Debug\TutorialCOM.tutorialCOM.resources
+C:\Users\Gandalf\AppData\Local\Temporary Projects\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+C:\Users\Gandalf\AppData\Local\Temporary Projects\TutorialCOM\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gandalf\AppData\Local\Temporary Projects\TutorialCOM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gandalf\AppData\Local\Temporary Projects\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+C:\Users\Gandalf\AppData\Local\Temporary Projects\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\bin\Debug\TutorialCOM.exe
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\bin\Debug\TutorialCOM.pdb
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.tutorialCOM.resources
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\studia\praca inżynierska\PC\TutorialCOM\TutorialCOM\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ahmed\Desktop\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+C:\Users\ahmed\Desktop\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+C:\Users\ahmed\Desktop\app\TutorialCOM\bin\Debug\MySql.Data.dll
+C:\Users\ahmed\Desktop\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+C:\Users\ahmed\Desktop\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+C:\Users\ahmed\Desktop\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csproj.GenerateResource.Cache
+C:\Users\ahmed\Desktop\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+C:\Users\ahmed\Desktop\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+C:\Users\ahmed\Desktop\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csprojResolveAssemblyReference.cache
+E:\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+E:\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+E:\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+E:\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+E:\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csprojResolveAssemblyReference.cache
+E:\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+E:\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+E:\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csproj.GenerateResource.Cache
+C:\Users\kluzor\Desktop\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+C:\Users\kluzor\Desktop\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\app_kurwa\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\app_kurwa\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\app_kurwa\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\app_kurwa\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\app_kurwa\app\TutorialCOM\bin\Debug\MySql.Data.dll
+C:\Users\Kluzor\Desktop\app_kurwa\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csprojResolveAssemblyReference.cache
+C:\Users\Kluzor\Desktop\app_kurwa\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+C:\Users\Kluzor\Desktop\app_kurwa\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+C:\Users\Kluzor\Desktop\app_kurwa\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csproj.GenerateResource.Cache
+F:\app_kurwa\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+F:\app_kurwa\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+F:\app_kurwa\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csprojResolveAssemblyReference.cache
+H:\app_kurwa\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+H:\app_kurwa\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+H:\app_kurwa\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+H:\app_kurwa\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+H:\app_kurwa\app\TutorialCOM\bin\Debug\MySql.Data.dll
+H:\app_kurwa\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csprojResolveAssemblyReference.cache
+H:\app_kurwa\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+H:\app_kurwa\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+H:\app_kurwa\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csproj.GenerateResource.Cache
+F:\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+F:\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+H:\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+H:\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+H:\app_dziala\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+H:\app_dziala\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+H:\app_dziala\app\TutorialCOM\bin\Debug\MySql.Data.dll
+H:\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csprojResolveAssemblyReference.cache
+H:\app_dziala\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+H:\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+H:\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csproj.GenerateResource.Cache
+C:\Users\Kluzor\Desktop\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\app_dziala\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\app_dziala\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\app_dziala\app\TutorialCOM\bin\Debug\MySql.Data.dll
+C:\Users\Kluzor\Desktop\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csprojResolveAssemblyReference.cache
+C:\Users\Kluzor\Desktop\app_dziala\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+C:\Users\Kluzor\Desktop\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+C:\Users\Kluzor\Desktop\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csproj.GenerateResource.Cache
+E:\KOPIA PENDRIVE\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+E:\KOPIA PENDRIVE\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csproj.GenerateResource.Cache
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csprojAssemblyReference.cache
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csproj.GenerateResource.cache
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csproj.CoreCompileInputs.cache
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Debug\TutorialCOM.csproj.CopyComplete
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb

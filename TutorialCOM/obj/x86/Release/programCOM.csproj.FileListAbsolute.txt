@@ -1,0 +1,37 @@
+C:\Users\Kluzor\Desktop\Aplikacja\TutorialCOM\bin\Release\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\Aplikacja\TutorialCOM\bin\Release\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\Aplikacja\TutorialCOM\bin\Release\MySql.Data.dll
+C:\Users\Kluzor\Desktop\Aplikacja\TutorialCOM\obj\x86\Release\programCOM.programCOM.resources
+C:\Users\Kluzor\Desktop\Aplikacja\TutorialCOM\obj\x86\Release\TutorialCOM.Properties.Resources.resources
+C:\Users\Kluzor\Desktop\Aplikacja\TutorialCOM\obj\x86\Release\programCOM.csproj.GenerateResource.Cache
+C:\Users\Kluzor\Desktop\Aplikacja\TutorialCOM\obj\x86\Release\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\Aplikacja\TutorialCOM\obj\x86\Release\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\Aplikacja\TutorialCOM\obj\x86\Release\programCOM.csprojResolveAssemblyReference.cache
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\bin\Release\COMDataBase.exe.config
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\bin\Release\COMDataBase.exe
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\bin\Release\COMDataBase.pdb
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Release\programCOM.programCOM.resources
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Release\TutorialCOM.Properties.Resources.resources
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Release\programCOM.csproj.GenerateResource.cache
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Release\programCOM.csproj.CoreCompileInputs.cache
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Release\COMDataBase.exe
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Release\COMDataBase.pdb
+C:\Users\kuchap\Desktop\Aplikacja_C#_SQL_COM\app\TutorialCOM\bin\Release\COMDataBase.exe.config
+C:\Users\kuchap\Desktop\Aplikacja_C#_SQL_COM\app\TutorialCOM\bin\Release\COMDataBase.exe
+C:\Users\kuchap\Desktop\Aplikacja_C#_SQL_COM\app\TutorialCOM\bin\Release\COMDataBase.pdb
+C:\Users\kuchap\Desktop\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Release\programCOM.programCOM.resources
+C:\Users\kuchap\Desktop\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Release\TutorialCOM.Properties.Resources.resources
+C:\Users\kuchap\Desktop\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Release\programCOM.csproj.GenerateResource.cache
+C:\Users\kuchap\Desktop\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Release\programCOM.csproj.CoreCompileInputs.cache
+C:\Users\kuchap\Desktop\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Release\COMDataBase.exe
+C:\Users\kuchap\Desktop\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Release\COMDataBase.pdb
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\bin\Release\COMDataBase.exe.config
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\bin\Release\COMDataBase.exe
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\bin\Release\COMDataBase.pdb
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Release\programCOM.programCOM.resources
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Release\TutorialCOM.Properties.Resources.resources
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Release\programCOM.csproj.GenerateResource.cache
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Release\programCOM.csproj.CoreCompileInputs.cache
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Release\COMDataBase.exe
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Release\COMDataBase.pdb
+C:\Users\kuchap\Desktop\Aplikacje\Aplikacja_C#_SQL_COM\app\TutorialCOM\obj\x86\Release\programCOM.csprojAssemblyReference.cache

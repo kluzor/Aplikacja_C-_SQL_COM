@@ -1,0 +1,76 @@
+C:\Users\ahmed\Desktop\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+C:\Users\ahmed\Desktop\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+C:\Users\ahmed\Desktop\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+C:\Users\ahmed\Desktop\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+C:\Users\ahmed\Desktop\app\TutorialCOM\bin\Debug\MySql.Data.dll
+C:\Users\ahmed\Desktop\app\TutorialCOM\obj\x86\Debug\programCOM.csprojResolveAssemblyReference.cache
+C:\Users\ahmed\Desktop\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+C:\Users\ahmed\Desktop\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+C:\Users\ahmed\Desktop\app\TutorialCOM\obj\x86\Debug\programCOM.csproj.GenerateResource.Cache
+E:\KOPIA PENDRIVE\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+E:\KOPIA PENDRIVE\app_dziala\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+E:\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+E:\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+E:\app_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+E:\app_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+E:\app_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.csprojResolveAssemblyReference.cache
+E:\app_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+E:\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+E:\app_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.csproj.GenerateResource.Cache
+I:\Szyfrowanie\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+I:\Szyfrowanie\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+I:\Szyfrowanie\app_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+I:\Szyfrowanie\app_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+I:\Szyfrowanie\app_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.csprojResolveAssemblyReference.cache
+I:\Szyfrowanie\app_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+I:\Szyfrowanie\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+I:\Szyfrowanie\app_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.csproj.GenerateResource.Cache
+C:\Users\Kluzor\Desktop\app_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\app_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\app_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+C:\Users\Kluzor\Desktop\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+C:\Users\Kluzor\Desktop\app_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.csproj.GenerateResource.Cache
+C:\Users\Kluzor\Desktop\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.csproj.GenerateResource.Cache
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\Najnowsze bezpieczeństwo\app_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.csprojResolveAssemblyReference.cache
+C:\Users\Kluzor\Desktop\Apka deszyfrowanie\app_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\Apka deszyfrowanie\app_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\Apka deszyfrowanie\app_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+C:\Users\Kluzor\Desktop\Apka deszyfrowanie\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+C:\Users\Kluzor\Desktop\Apka deszyfrowanie\app_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.csproj.GenerateResource.Cache
+C:\Users\Kluzor\Desktop\Apka deszyfrowanie\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\Apka deszyfrowanie\app_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\Apka deszyfrowanie\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\Apka deszyfrowanie\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\Piotr Kucha 3EA-DI\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\Piotr Kucha 3EA-DI\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\Piotr Kucha 3EA-DI\Aplikacja_C#_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\Piotr Kucha 3EA-DI\Aplikacja_C#_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\Piotr Kucha 3EA-DI\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.csprojResolveAssemblyReference.cache
+C:\Users\Kluzor\Desktop\Piotr Kucha 3EA-DI\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+C:\Users\Kluzor\Desktop\Piotr Kucha 3EA-DI\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+C:\Users\Kluzor\Desktop\Piotr Kucha 3EA-DI\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.csproj.GenerateResource.Cache
+C:\Users\Kluzor\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\bin\Debug\TutorialCOM.pdb
+C:\Users\Kluzor\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.csprojResolveAssemblyReference.cache
+C:\Users\Kluzor\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+C:\Users\Kluzor\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+C:\Users\Kluzor\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.csproj.GenerateResource.Cache
+C:\Users\Kluzor\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.exe
+C:\Users\Kluzor\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.pdb
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\bin\Debug\COMDataBase.exe.config
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\bin\Debug\COMDataBase.exe
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\bin\Debug\COMDataBase.pdb
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.programCOM.resources
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\TutorialCOM.Properties.Resources.resources
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.csproj.GenerateResource.cache
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\programCOM.csproj.CoreCompileInputs.cache
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\COMDataBase.exe
+C:\Users\kuchap\Desktop\Aplikacja MySQL\Aplikacja_C#_MySQL\app\TutorialCOM\obj\x86\Debug\COMDataBase.pdb
